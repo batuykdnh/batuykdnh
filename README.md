@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Batu
 
 I'm a fourth-year Computer Engineering student at Işık University, passionate about coding, web development, and game development. I enjoy solving complex problems and working on exciting projects using modern technologies.
 
