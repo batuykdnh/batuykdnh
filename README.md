@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi there! 👋 I'm Batu Yekdaneh
 
-<!--
-**batuykdnh/batuykdnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Computer Engineering student at Işık University, passionate about coding, web development, and game development. I enjoy solving complex problems and working on exciting projects using modern technologies.
 
-Here are some ideas to get you started:
+🌟 Skills and Technologies:
+Web Development:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Next.js
+Tailwind CSS
+Express.js
+Socket.io
+Game Development:
+
+Unity
+DOTween
+C#
+Databases:
+
+PostgreSQL
+Prisma
+Drizzle ORM
+Programming Languages:
+
+JavaScript
+C#
+SQL
+Tools and Platforms:
+
+Git & GitHub
+Vercel (for hosting Next.js projects)
+Docker
+💼 Currently Working On:
+Real-time chat applications using Socket.io.
+Game mechanics and animations using DOTween in Unity.
+Exploring cloud and deployment solutions for full-stack web applications.
+🌱 Currently Learning:
+Scaling real-time systems.
+Advanced Unity development techniques.
+📫 How to reach me:
+LinkedIn Profile: https://www.linkedin.com/in/batu-yekdaneh-32926b211/
+Email: batuyek442@gmail.com
