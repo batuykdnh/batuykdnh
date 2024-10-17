@@ -41,4 +41,4 @@ I'm a fourth-year Computer Engineering student at Işık University, passionate 
 
 ## 📫 How to reach me:
 * [LinkedIn Profile](https://www.linkedin.com/in/batu-yekdaneh-32926b211/)
-* [Email: your.email@example.com](mailto:batuyek442@gmail.com)
+* [Email: batuyek442@gmail.com](mailto:batuyek442@gmail.com)
